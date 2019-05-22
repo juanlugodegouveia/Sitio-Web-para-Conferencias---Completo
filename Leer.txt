@@ -1,0 +1,5 @@
+El programa presenta problemas al momento de ingresar categorias (No carga) correctamente en el frontend
+
+Ademas al momento de eliminar da problemas con la base de datos, unido a esto el mismo problema con invitado creado y categoria.
+
+El dashboard y casi todo el backend funciona desactivando el modo estrico del mysql (Por favor chequear)
